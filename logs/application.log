@@ -1,0 +1,27 @@
+2024-12-14 14:39:05.560 [main] INFO  org.example.App - The application is being launched
+2024-12-14 14:39:05.790 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-12-14 14:39:05.794 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-12-14 14:39:06.463 [main] INFO  org.example.App - Starting grade analysis
+2024-12-14 14:39:06.463 [main] INFO  org.example.App - The analysis is completed, we are preparing to record the results
+2024-12-14 14:39:06.569 [main] INFO  org.example.App - Starting to record the results in an Excel file: grade_analysis_report.xlsx
+2024-12-14 14:39:06.912 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save core properties part
+2024-12-14 14:39:06.912 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save content types part
+2024-12-14 14:39:07.040 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save package relationships
+2024-12-14 14:39:07.079 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/app.xml'
+2024-12-14 14:39:07.080 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/core.xml'
+2024-12-14 14:39:07.086 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/sharedStrings.xml'
+2024-12-14 14:39:07.087 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/styles.xml'
+2024-12-14 14:39:07.089 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/workbook.xml'
+2024-12-14 14:39:07.093 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet1.xml'
+2024-12-14 14:39:07.095 [main] INFO  org.example.App - The Excel file was successfully written: grade_analysis_report.xlsx
+2024-12-14 14:39:07.096 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save content types part
+2024-12-14 14:39:07.097 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save package relationships
+2024-12-14 14:39:07.099 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/app.xml'
+2024-12-14 14:39:07.100 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/core.xml'
+2024-12-14 14:39:07.104 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/sharedStrings.xml'
+2024-12-14 14:39:07.105 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/styles.xml'
+2024-12-14 14:39:07.107 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/workbook.xml'
+2024-12-14 14:39:07.109 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet1.xml'
+2024-12-14 14:39:07.112 [main] INFO  org.example.App - The assessment analysis has been successfully completed
+2024-12-14 14:39:07.112 [main] INFO  org.example.App - The results of the analysis are recorded in the output file: grade_analysis_report.xlsx
+2024-12-14 14:39:07.340 [main] INFO  org.example.App - The application is shutting down
